@@ -1,0 +1,12 @@
+prompt 1 :
+    Implement can_access_screening_report in app/access_control.py so a property manager can only view screening reports for their own tenants add test
+
+
+prompt 2:
+    thats not right you compared the tenant ID not the landloard account 
+
+please read README.md the landloard account is what matters a manager can only see reports for tenats under own landloard account fix the check so it follows report tenant property landloard account and rertuns false if anything is missing
+
+add test same account is allowed different account is denied dont change app/seed_dat.py or app/modles.py run the test and show me the results
+
+Test result: python -m pytest tests\test_access_control.py -q — 4 passed.
