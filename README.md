@@ -41,3 +41,4 @@ for how to use it.
 ---------------------------------------------------------------------------------------------------------------------------
 Video Recording 
 Assignment walkthrough and demonstration: https://drive.google.com/file/d/19ZtzDWvmwsIc9bi0rvmrfcHB7G95aJSW/view?usp=sharing
+Screen Recording: https://drive.google.com/file/d/1OhH8a1u73PFgsTyHYfvGfJdidjtlBv4e/view?usp=sharing
